@@ -3,6 +3,7 @@ CustomBlocksM is a fork of the plugin [CustomBlocks](https://github.com/MMonkeyK
 
 ## Features:
 * Custom sounds
+* Custom drop
 * Tools supports
 * Separated readable configs
 
