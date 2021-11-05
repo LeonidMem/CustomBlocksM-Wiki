@@ -6,6 +6,8 @@ CustomBlocksM is a fork of the plugin [CustomBlocks](https://github.com/MMonkeyK
 * Custom drop
 * Tools supports
 * Separated readable configs
+* Columns
+* Directional blocks [WIP]
 
 ## Dependencies:
 * [LibraryM](https://www.spigotmc.org/resources/librarym.96514/)
