@@ -21,3 +21,5 @@ CustomBlocksM is a fork of the plugin [CustomBlocks](https://github.com/MMonkeyK
 * You are not allowed to decompile this plugin.
 * You are not allowed to share the source of this plugin.
 * No refunds.
+
+If you did something from this list, you won't get any updates in the future.
